@@ -1,0 +1,35 @@
+[
+  {
+    "_id": "d15b080b-8e17-47a4-b148-1aef03c03e98",
+    "colId": "history",
+    "containerId": "",
+    "name": "http://localhost:8080/create",
+    "url": "http://localhost:8080/create",
+    "method": "POST",
+    "sortNum": 0,
+    "created": "2023-04-03T18:22:02.169Z",
+    "modified": "2023-04-04T03:05:32.051Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "json",
+      "raw": "{\n    \"name\":\"lechuga\",\n    \"quantity\":10,\n    \"code_value\":\"sev123\",\n    \"is_published\":true,\n    \"expiration\": \"12122026\",\n    \"price\": 5.0\n}",
+      "form": []
+    },
+    "tests": []
+  },
+  {
+    "_id": "fdd4cc08-8b1d-48ec-8f44-7f550c2dec33",
+    "colId": "history",
+    "containerId": "",
+    "name": "http://localhost:8080/products",
+    "url": "http://localhost:8080/products",
+    "method": "GET",
+    "sortNum": 0,
+    "created": "2023-04-03T18:31:37.905Z",
+    "modified": "2023-04-03T18:31:37.905Z",
+    "headers": [],
+    "params": [],
+    "tests": []
+  }
+]
